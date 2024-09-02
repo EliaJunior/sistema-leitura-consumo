@@ -1,6 +1,6 @@
 node_modules/
-*.log
-*.env
+.log
+.env
 Dockerfile
 docker-compose.yml
 sql_data/
